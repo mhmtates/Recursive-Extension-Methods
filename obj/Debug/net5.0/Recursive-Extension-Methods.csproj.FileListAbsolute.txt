@@ -1,0 +1,16 @@
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\bin\Debug\net5.0\Recursive-Extension-Methods.exe
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\bin\Debug\net5.0\Recursive-Extension-Methods.deps.json
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\bin\Debug\net5.0\Recursive-Extension-Methods.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\bin\Debug\net5.0\Recursive-Extension-Methods.runtimeconfig.dev.json
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\bin\Debug\net5.0\Recursive-Extension-Methods.dll
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\bin\Debug\net5.0\ref\Recursive-Extension-Methods.dll
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\bin\Debug\net5.0\Recursive-Extension-Methods.pdb
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\obj\Debug\net5.0\Recursive-Extension-Methods.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\obj\Debug\net5.0\Recursive-Extension-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\obj\Debug\net5.0\Recursive-Extension-Methods.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\obj\Debug\net5.0\Recursive-Extension-Methods.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\obj\Debug\net5.0\Recursive-Extension-Methods.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\obj\Debug\net5.0\Recursive-Extension-Methods.dll
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\obj\Debug\net5.0\ref\Recursive-Extension-Methods.dll
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\obj\Debug\net5.0\Recursive-Extension-Methods.pdb
+C:\Users\Mehmet\Desktop\Pratikler\Recursive-Extension-Methods\obj\Debug\net5.0\Recursive-Extension-Methods.genruntimeconfig.cache
